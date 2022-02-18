@@ -4,6 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),olivewood)
+ifeq ($(TARGET_DEVICE),olive)
 
 endif
